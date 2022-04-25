@@ -32,3 +32,4 @@ Finally, I am also looking for a 1 year work-study program in the same field.
 
 ## Stats
 <img src="https://github-readme-stats.vercel.app/api?username=SkaaYz&theme=nord&show_icons=true" alt="all repos stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkaaYz&theme=nord&layout=compact" alt="top languages">
