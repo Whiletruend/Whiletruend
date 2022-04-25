@@ -9,19 +9,23 @@ I have been accepted in a programming school in order to obtain a master's degre
 Finally, I am also looking for a 1 year work-study program in the same field.
 
 ## Skills
-• 👨🏻‍💻 **Lua** *(procedural & oop)* ;\
+• 👨🏻‍💻 **Lua** *(Procedural & OOP)* ;\
 • ⚙️ **Java** *(with MVC structure)* ;\
-• 💻 **PHP** *(procedural, oop & with MVC structure)* ;\
+• 💻 **PHP** *(Procedural, OOP & with MVC structure)* ;\
+• 🤖 **PHP Frameworks** *(Laravel, Symfony, etc.)*\
 • 🗂 **SQL** *(MySQL, Postgres, phpMyAdmin)* ;\
-• 📋 **NoSQL** *(Firebase NoSQL DB connection in JS, etc.)*\
+• 📋 **NoSQL** *(Firebase, etc.)*\
 
 ## IDE *(Integrated Development Environment)*
-• ❤️ **Intellij IDEA Ultimate** *(special thanks to my school, so I can get it for free)* ;\
-• 📝 **Visual Studio Code Insiders** *(only for some text/properties files, etc.)*\
+• ❤️ **Intellij IDEA Ultimate** *(Special thanks to my school, so I can get it for free)* ;\
+• 📝 **Visual Studio Code Insiders** *(Only for some text/properties files, etc.)*\
 
 ## Actual Projects
-• 1️⃣ **Business Tycoon** *(school project, I used **OOP PHP**)* — 🟢 ;\
-• 2️⃣ **GSB Gestion Visites** *(school project, I used **OOP PHP**)* — 🟢 ;\
-• 3️⃣ **GSB Médecins** *(school project, I used **Java** & **JavaFX**)* — 🟢 ;\
-• 4️⃣ **GSB Gestion Visites** *(school project)* — 🟢 ;\
-• 5️⃣ *(rework)* **Personal portfolio** *(personal project, I'm using **OOP PHP**)* — 🟠 
+• 1️⃣ **Business Tycoon** *(School project, I used **OOP PHP**)* — 🟢 ;\
+> We had to invent our own project and develop our relational database accordingly. Our mission was to create a MCD & UML diagram for our project which would be able to perform "basic" CRUD actions.\
+• 2️⃣ **GSB Gestion Visites** *(School project, I used **OOP PHP**)* — 🟢 ;\
+> The objective of this first project was to connect our database to the site in PHP and to be able to perform "CRUD" type actions. Thus a schedule of conditions had been given and we had to respect it.\
+• 3️⃣ **GSB Médecins** *(School project, I used **Java** & **JavaFX**)* — 🟢 ;\
+> The main objective of this project was to create a fat client, that is to say an application or a software *(what I did)* in Java or any other language allowing to realize object-oriented code. With that the request was to be able to carry out actions of addition, reading, modification and deletion *(CRUD)*.\
+• 4️⃣ *(rework)* **Portfolio** *(Personal project, I'm using **OOP PHP**)* — 🟠 
+> Personal project consisting in the creation of my portfolio in order to display my different "skills" to future employers. This has been very useful to me more than once. The server is hosted by OVH, the address however will not be given for the moment. *(I am reworking the whole site)*.
