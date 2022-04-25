@@ -23,16 +23,25 @@ Finally, I am also looking for a 1 year work-study program in the same field.
 ## 🧳 My projects
 #### 1️⃣ • **Business Tycoon** *(School project, I used **OOP PHP**)* <img src=https://badgen.net/badge/Status/Done/green>
 > We had to invent our own project and develop our relational database accordingly. Our mission was to create a MCD & UML diagram for our project which would be able to perform "basic" CRUD actions.
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SkaaYz&repo=mvc-project-business-tycoon" />
+<a href="https://github.com/SkaaYz/mvc-project-business-tycoon">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SkaaYz&repo=mvc-project-business-tycoon&theme=nord" />
 </a>
 
 #### 2️⃣ • **GSB Gestion Visites** *(School project, I used **OOP PHP**)* <img src=https://badgen.net/badge/Status/Done/green>
 > The objective of this first project was to connect our database to the site in PHP and to be able to perform "CRUD" type actions. Thus a schedule of conditions had been given and we had to respect it.
+<a href="https://github.com/SkaaYz/gsb-gestion-visites">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SkaaYz&repo=gsb-gestion-visites&theme=nord" />
+</a>
+
 #### 3️⃣ • **GSB Médecins** *(School project, I used **Java** & **JavaFX**)* <img src=https://badgen.net/badge/Status/Done/green>
 > The main objective of this project was to create a fat client, that is to say an application or a software *(what I did)* in Java or any other language allowing to realize object-oriented code. With that the request was to be able to carry out actions of addition, reading, modification and deletion *(CRUD)*.
+<a href="https://github.com/SkaaYz/gsb_medecins">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SkaaYz&repo=gsb_medecins&theme=nord" />
+</a>
+
 #### 4️⃣ • *(rework)* **Portfolio** *(Personal project, I'm using **OOP PHP**)* <img src=https://badgen.net/badge/Status/WIP/orange>
 > Personal project consisting in the creation of my portfolio in order to display my different "skills" to future employers. This has been very useful to me more than once. The server is hosted by OVH, the address however will not be given for the moment. *(I am reworking the whole site)*.
+**GitHub repo not created.**\
 
 ## 📊 Stats
 <img src="https://github-readme-stats.vercel.app/api?username=SkaaYz&theme=nord&show_icons=true" alt="all repos stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkaaYz&theme=nord&layout=compact" align="right" alt="top languages">
