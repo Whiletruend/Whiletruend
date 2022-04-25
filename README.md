@@ -10,7 +10,7 @@ Finally, I am also looking for a 1 year work-study program in the same field.
 
 ## 🧠 Skills
 • 👨🏻‍💻 **Lua** *(Procedural & OOP)* ;\
-• ⚙️ **Java** *(with MVC structure)* ;\
+• ⚙️ **Java** *(With MVC structure)* ;\
 • 💻 **PHP** *(Procedural, OOP & with MVC structure)* ;\
 • 🤖 **PHP Frameworks** *(Laravel, Symfony, etc.)*\
 • 🗂 **SQL** *(MySQL, Postgres, phpMyAdmin)* ;\
@@ -23,6 +23,10 @@ Finally, I am also looking for a 1 year work-study program in the same field.
 ## 🧳 My projects
 #### 1️⃣ • **Business Tycoon** *(School project, I used **OOP PHP**)* <img src=https://badgen.net/badge/Status/Done/green>
 > We had to invent our own project and develop our relational database accordingly. Our mission was to create a MCD & UML diagram for our project which would be able to perform "basic" CRUD actions.
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SkaaYz&repo=business_tycoon" />
+</a>
+
 #### 2️⃣ • **GSB Gestion Visites** *(School project, I used **OOP PHP**)* <img src=https://badgen.net/badge/Status/Done/green>
 > The objective of this first project was to connect our database to the site in PHP and to be able to perform "CRUD" type actions. Thus a schedule of conditions had been given and we had to respect it.
 #### 3️⃣ • **GSB Médecins** *(School project, I used **Java** & **JavaFX**)* <img src=https://badgen.net/badge/Status/Done/green>
