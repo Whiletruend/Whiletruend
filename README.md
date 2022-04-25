@@ -13,14 +13,14 @@ Finally, I am also looking for a 1 year work-study program in the same field.
 • 💻 **PHP & PHP Frameworks** *(Procedural, OOP, MVC structure, Laravel & Symfony)* ;\
 • 🗂 **SQL** *(MySQL, PostgreSQL, phpMyAdmin)* ;\
 • 📋 **NoSQL** *(Firebase, etc.)* ;\
-• 🧱 **HTML - CSS - JS** *(Use of JS for Firebase with real-time database listener, etc.)*
+• 🪢 **HTML - CSS - JS** *(Use of JS for Firebase with real-time database listener, etc.)*
 
 ## 🛠 IDE *(Integrated Development Environment)*
 • ❤️ **Intellij IDEA Ultimate** *(Special thanks to my school, so I can get it for free)* ;\
 • 📝 **Visual Studio Code Insiders** *(Only for some text/properties files, etc.)*
 
 <!--
-## 🧳 My projects
+## 💼 My projects
 #### 1️⃣ • **Business Tycoon** *(School project, I used **OOP PHP**)* <img src=https://badgen.net/badge/Status/Done/green>
 > We had to invent our own project and develop our relational database accordingly. Our mission was to create a MCD & UML diagram for our project which would be able to perform "basic" CRUD actions.
 <a href="https://github.com/SkaaYz/mvc-project-business-tycoon">
