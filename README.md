@@ -1,18 +1,16 @@
 <img src="https://cdn.discordapp.com/attachments/942861572198518794/968269576573952020/Banner_github.jpg" alt="skz banner">
 
 # 👋 Welcome to my profile!
-Hi! I'm your **SkaaYz** and welcome to my Github profile.
+Hi! I'm your **SkaaYz** *(Benjamin B.)* and welcome to my Github profile.
 
-I'm a computer science student in **BTS SIO SLAM** *(in France)*.\
-I have been accepted in a programming school in order to obtain a master's degree, however I am still looking for a school that will allow me to obtain the engineering one.
+I'm a computer science student in **BTS SIO SLAM** *(in France)*. I have been accepted in a programming school in order to obtain a master's degree, however I am still looking for a school that will allow me to obtain the engineering one.
 
 Finally, I am also looking for a 1 year work-study program in the same field.
 
 ## 🧠 Skills
 • 👨🏻‍💻 **Lua** *(Procedural & OOP)* ;\
 • ⚙️ **Java** *(With MVC structure)* ;\
-• 💻 **PHP** *(Procedural, OOP & with MVC structure)* ;\
-• 🤖 **PHP Frameworks** *(Laravel, Symfony, etc.)*\
+• 💻 **PHP & PHP Frameworks** *(Procedural, OOP, MVC structure, Laravel & Symfony)* ;\
 • 🗂 **SQL** *(MySQL, PostgreSQL, phpMyAdmin)* ;\
 • 📋 **NoSQL** *(Firebase, etc.)*
 
