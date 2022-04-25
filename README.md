@@ -24,7 +24,7 @@ Finally, I am also looking for a 1 year work-study program in the same field.
 #### 1️⃣ • **Business Tycoon** *(School project, I used **OOP PHP**)* <img src=https://badgen.net/badge/Status/Done/green>
 > We had to invent our own project and develop our relational database accordingly. Our mission was to create a MCD & UML diagram for our project which would be able to perform "basic" CRUD actions.
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SkaaYz&repo=business_tycoon" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SkaaYz&repo=mvc-project-business-tycoon" />
 </a>
 
 #### 2️⃣ • **GSB Gestion Visites** *(School project, I used **OOP PHP**)* <img src=https://badgen.net/badge/Status/Done/green>
