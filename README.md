@@ -14,11 +14,11 @@ Finally, I am also looking for a 1 year work-study program in the same field.
 • 💻 **PHP** *(Procedural, OOP & with MVC structure)* ;\
 • 🤖 **PHP Frameworks** *(Laravel, Symfony, etc.)*\
 • 🗂 **SQL** *(MySQL, Postgres, phpMyAdmin)* ;\
-• 📋 **NoSQL** *(Firebase, etc.)*\
+• 📋 **NoSQL** *(Firebase, etc.)*
 
 ## IDE *(Integrated Development Environment)*
 • ❤️ **Intellij IDEA Ultimate** *(Special thanks to my school, so I can get it for free)* ;\
-• 📝 **Visual Studio Code Insiders** *(Only for some text/properties files, etc.)*\
+• 📝 **Visual Studio Code Insiders** *(Only for some text/properties files, etc.)*
 
 ## Actual Projects
 - 1️⃣ **Business Tycoon** *(School project, I used **OOP PHP**)* — 🟢 ;
