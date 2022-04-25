@@ -1,1 +1,1 @@
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SkaaYz&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img src="https://cdn.discordapp.com/attachments/942861572198518794/968269576573952020/Banner_github.jpg" alt="skz banner">
