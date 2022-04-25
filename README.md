@@ -1,7 +1,7 @@
 <img src="https://cdn.discordapp.com/attachments/942861572198518794/968269576573952020/Banner_github.jpg" alt="skz banner">
 
 # 👋 Welcome to my profile!
-Hi! I'm your **SkaaYz** *(Benjamin B.)* and welcome to my Github profile.
+Hi! I'm **SkaaYz** *(Benjamin B.)* and welcome to my Github profile.
 
 I'm a computer science student in **BTS SIO SLAM** *(in France)*. I have been accepted in a programming school in order to obtain a master's degree, however I am still looking for a school that will allow me to obtain the engineering one.
 
