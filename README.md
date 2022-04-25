@@ -21,7 +21,7 @@ Finally, I am also looking for a 1 year work-study program in the same field.
 • 📝 **Visual Studio Code Insiders** *(Only for some text/properties files, etc.)*
 
 ## My projects
-#### • 1️⃣ **Business Tycoon** *(School project, I used **OOP PHP**)* <img src=https://badgen.net/badge/Status/Done/green>
+#### 1️⃣ • **Business Tycoon** *(School project, I used **OOP PHP**)* [![business_tycoon](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherinempeterson.com/)
 
 > We had to invent our own project and develop our relational database accordingly. Our mission was to create a MCD & UML diagram for our project which would be able to perform "basic" CRUD actions.
 
