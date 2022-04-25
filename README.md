@@ -20,6 +20,7 @@ Finally, I am also looking for a 1 year work-study program in the same field.
 • ❤️ **Intellij IDEA Ultimate** *(Special thanks to my school, so I can get it for free)* ;\
 • 📝 **Visual Studio Code Insiders** *(Only for some text/properties files, etc.)*
 
+<!--
 ## 🧳 My projects
 #### 1️⃣ • **Business Tycoon** *(School project, I used **OOP PHP**)* <img src=https://badgen.net/badge/Status/Done/green>
 > We had to invent our own project and develop our relational database accordingly. Our mission was to create a MCD & UML diagram for our project which would be able to perform "basic" CRUD actions.
@@ -42,6 +43,7 @@ Finally, I am also looking for a 1 year work-study program in the same field.
 #### 4️⃣ • *(rework)* **Portfolio** *(Personal project, I'm using **OOP PHP**)* <img src=https://badgen.net/badge/Status/WIP/orange>
 > Personal project consisting in the creation of my portfolio in order to display my different "skills" to future employers. This has been very useful to me more than once. The server is hosted by OVH, the address however will not be given for the moment. *(I am reworking the whole site)*.
 - **GitHub repo not created.**
+-->
 
 ## 📊 Stats
 <img src="https://github-readme-stats.vercel.app/api?username=SkaaYz&theme=nord&show_icons=true" alt="all repos stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkaaYz&theme=nord&layout=compact" align="right" alt="top languages">
