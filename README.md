@@ -13,7 +13,7 @@ Finally, I am also looking for a 1 year work-study program in the same field.
 • ⚙️ **Java** *(With MVC structure)* ;\
 • 💻 **PHP** *(Procedural, OOP & with MVC structure)* ;\
 • 🤖 **PHP Frameworks** *(Laravel, Symfony, etc.)*\
-• 🗂 **SQL** *(MySQL, Postgres, phpMyAdmin)* ;\
+• 🗂 **SQL** *(MySQL, PostgreSQL, phpMyAdmin)* ;\
 • 📋 **NoSQL** *(Firebase, etc.)*
 
 ## 🛠 IDE *(Integrated Development Environment)*
