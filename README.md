@@ -41,7 +41,7 @@ Finally, I am also looking for a 1 year work-study program in the same field.
 
 #### 4️⃣ • *(rework)* **Portfolio** *(Personal project, I'm using **OOP PHP**)* <img src=https://badgen.net/badge/Status/WIP/orange>
 > Personal project consisting in the creation of my portfolio in order to display my different "skills" to future employers. This has been very useful to me more than once. The server is hosted by OVH, the address however will not be given for the moment. *(I am reworking the whole site)*.
-**GitHub repo not created.**\
+- **GitHub repo not created.**
 
 ## 📊 Stats
 <img src="https://github-readme-stats.vercel.app/api?username=SkaaYz&theme=nord&show_icons=true" alt="all repos stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkaaYz&theme=nord&layout=compact" align="right" alt="top languages">
