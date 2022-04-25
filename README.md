@@ -1,14 +1,14 @@
 <img src="https://cdn.discordapp.com/attachments/942861572198518794/968269576573952020/Banner_github.jpg" alt="skz banner">
 
-# Welcome to my profile!
-Hi! I'm your **SkaaYz** and welcome to my Github profile.\
+# 👋 Welcome to my profile!
+Hi! I'm your **SkaaYz** and welcome to my Github profile.
 
 I'm a computer science student in **BTS SIO SLAM** *(in France)*.\
 I have been accepted in a programming school in order to obtain a master's degree, however I am still looking for a school that will allow me to obtain the engineering one.\
 
 Finally, I am also looking for a 1 year work-study program in the same field.
 
-## Skills
+## 🧠 Skills
 • 👨🏻‍💻 **Lua** *(Procedural & OOP)* ;\
 • ⚙️ **Java** *(with MVC structure)* ;\
 • 💻 **PHP** *(Procedural, OOP & with MVC structure)* ;\
@@ -16,11 +16,11 @@ Finally, I am also looking for a 1 year work-study program in the same field.
 • 🗂 **SQL** *(MySQL, Postgres, phpMyAdmin)* ;\
 • 📋 **NoSQL** *(Firebase, etc.)*
 
-## IDE *(Integrated Development Environment)*
+## 🛠 IDE *(Integrated Development Environment)*
 • ❤️ **Intellij IDEA Ultimate** *(Special thanks to my school, so I can get it for free)* ;\
 • 📝 **Visual Studio Code Insiders** *(Only for some text/properties files, etc.)*
 
-## My projects
+## 🧳 My projects
 #### 1️⃣ • **Business Tycoon** *(School project, I used **OOP PHP**)* <img src=https://badgen.net/badge/Status/Done/green>
 > We had to invent our own project and develop our relational database accordingly. Our mission was to create a MCD & UML diagram for our project which would be able to perform "basic" CRUD actions.
 #### 2️⃣ • **GSB Gestion Visites** *(School project, I used **OOP PHP**)* <img src=https://badgen.net/badge/Status/Done/green>
@@ -30,5 +30,5 @@ Finally, I am also looking for a 1 year work-study program in the same field.
 #### 4️⃣ • *(rework)* **Portfolio** *(Personal project, I'm using **OOP PHP**)* <img src=https://badgen.net/badge/Status/WIP/orange>
 > Personal project consisting in the creation of my portfolio in order to display my different "skills" to future employers. This has been very useful to me more than once. The server is hosted by OVH, the address however will not be given for the moment. *(I am reworking the whole site)*.
 
-## Stats
+## 📊 Stats
 <img src="https://github-readme-stats.vercel.app/api?username=SkaaYz&theme=nord&show_icons=true" alt="all repos stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkaaYz&theme=nord&layout=compact" align="right" alt="top languages">
