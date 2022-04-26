@@ -15,7 +15,7 @@ Finally, I am also looking for a 1 year work-study program in the same field.
 • 👨🏻‍💻 **Lua** *(Procedural & OOP)* — ✮✮✮✮✰ ;\
 • ⚙️ **Java** *(With MVC structure)* — ✮✮✮✰✰ ;\
 • 💻 **PHP & PHP Frameworks** *(Procedural, OOP, MVC structure, Laravel & Symfony)* — ✮✮✮✮✰ ;\
-• 🗂 **SQL** *(MySQL, PostgreSQL, phpMyAdmin)* — ✮✮✮✰✰ ;\
+• 🗂 **SQL** *(MySQL, PostgreSQL, phpMyAdmin)* — ✮✮✮✮✰ ;\
 • 📋 **NoSQL** *(Firebase, etc.)* — ✮✮✰✰✰;\
 • 🧱 **HTML, CSS & JS** *(Use of JS for Firebase with real-time database listener, etc.)* — ✮✮✮✰✰
 
