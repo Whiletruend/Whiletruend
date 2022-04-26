@@ -12,7 +12,7 @@ I'm a computer science student in **BTS SIO SLAM** *(in France)*. I have been ac
 Finally, I am also looking for a 1 year work-study program in the same field.
 
 ## 🧠 Skills
-• 👨🏻‍💻 **Lua** *(Procedural & OOP)* — ✮✮✮✮✰ ;\
+• 👨🏻‍💻 **Lua** *(Procedural & "OOP")* — ✮✮✮✮✰ ;\
 • ⚙️ **Java** *(With MVC structure)* — ✮✮✮✰✰ ;\
 • 💻 **PHP & PHP Frameworks** *(Procedural, OOP, MVC structure, Laravel & Symfony)* — ✮✮✮✮✰ ;\
 • 🗂 **SQL** *(MySQL, PostgreSQL, phpMyAdmin)* — ✮✮✮✮✰ ;\
