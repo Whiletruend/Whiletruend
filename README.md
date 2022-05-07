@@ -4,14 +4,14 @@
 
 ----------------
 
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Welcome to my profile!
+## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Welcome to my profile!
 Hi! I'm **SkaaYz** *(Benjamin B.)* and welcome to my Github profile.
 
 I'm a computer science student in **BTS SIO SLAM** *(in France)*. I have been accepted in a programming school in order to obtain a master's degree, however I am still looking for a school that will allow me to obtain the engineering one.
 
 Finally, I am also looking for a 1 year work-study program in the same field.
 
-# <img src="https://s8.gifyu.com/images/trophy.gif" width="30px"> Skills
+## <img src="https://s8.gifyu.com/images/trophy.gif" width="30px"> Skills
 • 👨🏻‍💻 **Lua** *(Procedural & "OOP")* — ✮✮✮✮✰ ;\
 • ⚙️ **Java** *(Basic, Normal & Spring MVC structure)* — ✮✮✮✰✰ ;\
 • 💻 **PHP & PHP Frameworks** *(Procedural, OOP, MVC structure, Laravel & Symfony)* — ✮✮✮✮✰ ;\
@@ -19,7 +19,7 @@ Finally, I am also looking for a 1 year work-study program in the same field.
 • 📋 **NoSQL** *(Firebase, etc.)* — ✮✮✰✰✰ ;\
 • 🧱 **HTML, CSS & JS** *(Use of JS for Firebase with real-time database listener, etc.)* — ✮✮✮✰✰
 
-# <img src="https://s8.gifyu.com/images/writing_hand.gif" width="30px"> IDE *(Integrated Development Environment)*
+## <img src="https://s8.gifyu.com/images/writing_hand.gif" width="30px"> IDE *(Integrated Development Environment)*
 • ❤️ **Intellij IDEA Ultimate** *(Special thanks to my school, so I can get it for free)* ;\
 • 📝 **Visual Studio Code Insiders** *(Only for some text/properties files, etc.)*
 
@@ -48,7 +48,7 @@ Finally, I am also looking for a 1 year work-study program in the same field.
 - **GitHub repo not created.**
 -->
 
-# <img src="https://s8.gifyu.com/images/rocket.gif" width="30px"> Stats
+## <img src="https://s8.gifyu.com/images/rocket.gif" width="30px"> Stats
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=SkaaYz&theme=nord&show_icons=true" alt="all repos stats"> -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkaaYz&theme=nord&layout=compact" alt="top languages">
 
