@@ -4,7 +4,7 @@
 
 ----------------
 
-# 👋 Welcome to my profile!
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Welcome to my profile!
 Hi! I'm **SkaaYz** *(Benjamin B.)* and welcome to my Github profile.
 
 I'm a computer science student in **BTS SIO SLAM** *(in France)*. I have been accepted in a programming school in order to obtain a master's degree, however I am still looking for a school that will allow me to obtain the engineering one.
