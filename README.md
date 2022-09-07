@@ -13,7 +13,7 @@ Finally, I am also looking for a 1 year work-study program in the same field.
 
 ## <img src="https://s8.gifyu.com/images/trophy.gif" width="30px"> Skills
 • 👨🏻‍💻 **Lua** *(Procedural & "OOP")* — ✮✮✮✮✰ ;\
-• ⚙️ **Java** *(Basic, Normal & Spring MVC structure)* — ✮✮✮✰✰ ;\
+• ⚙️ **Java** *(OOP, MVC structure, JavaFX & Spring MVC structure)* — ✮✮✮✰✰ ;\
 • 💻 **PHP & PHP Frameworks** *(Procedural, OOP, MVC structure, Laravel & Symfony)* — ✮✮✮✮✰ ;\
 • 🗂 **SQL** *(MySQL, PostgreSQL, phpMyAdmin)* — ✮✮✮✮✰ ;\
 • 📋 **NoSQL** *(Firebase, etc.)* — ✮✮✰✰✰ ;\
