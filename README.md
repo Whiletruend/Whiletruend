@@ -5,11 +5,9 @@
 ----------------
 
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Welcome to my profile!
-Hi! I'm **SkaaYz** *(Benjamin B.)* and welcome to my Github profile.
+Hi! I'm **Whiletruend** *(Benjamin B.)* and welcome to my Github profile.
 
-I'm a computer science student in **BTS SIO SLAM** *(in France)*. I have been accepted in a programming school in order to obtain a master's degree, however I am still looking for a school that will allow me to obtain the engineering one.
-
-Finally, I am also looking for a 1 year work-study program in the same field.
+I'm a computer science student in **Numerical Engineering** *(in France)*. My current school is **ESILV *(École Supérieur d'Ingénieurs Léonard-de-Vinci)***
 
 ## <img src="https://s8.gifyu.com/images/trophy.gif" width="30px"> Skills
 • 👨🏻‍💻 **Lua** *(Procedural & "OOP")* — ✮✮✮✮✰ ;\
