@@ -49,6 +49,6 @@ I'm a computer science student in **Numerical Engineering** *(in France)*. My cu
 
 ## <img src="https://s8.gifyu.com/images/rocket.gif" width="30px"> Stats
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=Whiletruend&theme=nord&show_icons=true" alt="all repos stats"> -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whiletruend&theme=nord&show_icons=true" alt="top languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whiletruend&theme=nord&compact=true&show_icons=true" alt="top languages">
 
 ----------------
