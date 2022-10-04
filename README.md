@@ -1,6 +1,7 @@
 ----------------
 
-<img src="https://cdn.discordapp.com/attachments/942861572198518794/968269576573952020/Banner_github.jpg" alt="skz banner"/>
+<!-- <img src="https://cdn.discordapp.com/attachments/942861572198518794/968269576573952020/Banner_github.jpg" alt="wte banner (old)"/> -->
+<img src="https://cdn.discordapp.com/attachments/942861572198518794/1026900944975310848/WTE_Github_Banner_-_No_Website.png" alt="wte banner"/>
 
 ----------------
 
@@ -48,6 +49,6 @@ I'm a computer science student in **Numerical Engineering** *(in France)*. My cu
 
 ## <img src="https://s8.gifyu.com/images/rocket.gif" width="30px"> Stats
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=Whiletruend&theme=nord&show_icons=true" alt="all repos stats"> -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whiletruend&theme=nord&layout=compact" alt="top languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whiletruend&theme=nord&show_icons=true" alt="top languages">
 
 ----------------
