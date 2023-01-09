@@ -16,7 +16,7 @@ I'm a computer science student in **Numerical Engineering** *(in France)*. My cu
 • 💻 **PHP & PHP Frameworks** *(Procedural, OOP, MVC structure, Laravel & Symfony)* — ✮✮✮✮✰ ;\
 • 🗂 **SQL** *(MySQL, PostgreSQL, phpMyAdmin)* — ✮✮✮✮✰ ;\
 • 📋 **NoSQL** *(Firebase, etc.)* — ✮✮✰✰✰ ;\
-• 🧱 **HTML, CSS & JS** *(Use of JS for Firebase with real-time database listener, etc.)* — ✮✮✮✰✰
+• 🧱 **HTML, CSS & JS** — ✮✮✮✰✰
 
 ## <img src="https://s8.gifyu.com/images/writing_hand.gif" width="30px"> IDE *(Integrated Development Environment)*
 • ❤️ **Intellij IDEA Ultimate** *(Special thanks to my school, so I can get it for free)* ;\
