@@ -8,7 +8,7 @@
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Welcome to my profile!
 Hi! I'm **Whiletruend** *(Benjamin B.)* and welcome to my Github profile.
 
-I'm a computer science student in **Numerical Engineering** *(in France)*. My current school is **ESILV *(École Supérieur d'Ingénieurs Léonard-de-Vinci)***
+I'm a computer science student in **Numerical Engineering** *(in France)*. My current school is **ESILV *(École Supérieure d'Ingénieurs Léonard-de-Vinci)***
 
 ## <img src="https://s8.gifyu.com/images/trophy.gif" width="30px"> Skills
 • 👨🏻‍💻 **Lua** *(Procedural & "OOP")* — ✮✮✮✮✰ ;\
