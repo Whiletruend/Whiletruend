@@ -1,7 +1,7 @@
 ----------------
 
 <!-- <img src="https://cdn.discordapp.com/attachments/942861572198518794/968269576573952020/Banner_github.jpg" alt="wte banner (old)"/> -->
-<img src="https://cdn.discordapp.com/attachments/942861572198518794/1026900944975310848/WTE_Github_Banner_-_No_Website.png" alt="wte banner"/>
+<img src="https://i.ibb.co/z8G4g8c/Nouveau-projet.png" alt="wte banner"/>
 
 ----------------
 
